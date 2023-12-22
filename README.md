@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+## NAME : KAMALESH R
+## REGISTER NUMBER : 212223230094
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
